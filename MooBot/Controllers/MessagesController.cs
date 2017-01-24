@@ -34,7 +34,7 @@ namespace MooBot
                 }
                 sb.Append(Environment.NewLine);
                 sb.Append(Environment.NewLine);
-                sb.Append("All I do is Moo at you!!");
+                sb.Append("All I do is Moo at you!");
                 sb.Append(Environment.NewLine);
                 sb.Append(Environment.NewLine);
                 sb.Append("Your Friend,");

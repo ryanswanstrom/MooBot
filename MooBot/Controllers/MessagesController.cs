@@ -40,7 +40,7 @@ namespace MooBot
                 sb.Append("Your Friend,");
                 sb.Append(Environment.NewLine);
                 sb.Append(Environment.NewLine);
-                sb.Append("Cow");
+                sb.Append(" The Cow");
                 Activity reply = activity.CreateReply(sb.ToString());
                 await connector.Conversations.ReplyToActivityAsync(reply);
             }
